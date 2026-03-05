@@ -26,3 +26,20 @@ Deep research pipeline for Obsidian vaults. 8-stage pipeline with batch research
 - 3-tier infrastructure: base (Claude Code) → mid (+ Ollama) → full (+ SearXNG)
 
 **Repository:** https://github.com/TimSimpsonJr/research-workflow
+
+---
+
+### Obsidian Publisher
+
+Pipeline from Obsidian vault research to blog posts and coordinated social media content.
+
+**Install:**
+```bash
+/plugin install obsidian-publisher@activist-ai-toolkit
+```
+
+**What you get:**
+- Blog writing skill — draft posts from vault research
+- Social media skill — coordinated content across platforms
+
+**Repository:** https://github.com/TimSimpsonJr/obsidian-publisher

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Personal Claude Code plugins",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -13,6 +13,12 @@
       "source": "./research-workflow",
       "description": "Deep research pipeline for Obsidian vaults. Batch research, thread-pulling, media capture, vault-aware classification.",
       "version": "2.0.0"
+    },
+    {
+      "name": "obsidian-publisher",
+      "source": "./obsidian-publisher",
+      "description": "Pipeline from Obsidian vault research to blog posts and coordinated social media content.",
+      "version": "0.1.0"
     }
   ]
 }

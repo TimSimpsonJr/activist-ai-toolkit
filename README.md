@@ -1,11 +1,11 @@
-# Claude Plugins
+# Activist AI Toolkit
 
-Personal Claude Code plugin marketplace.
+Claude Code plugins for research and civic engagement.
 
 ## Installation
 
 ```bash
-/plugin marketplace add TimSimpsonJr/claude-plugins
+/plugin marketplace add TimSimpsonJr/activist-ai-toolkit
 ```
 
 ## Available Plugins
@@ -16,7 +16,7 @@ Deep research pipeline for Obsidian vaults. 8-stage pipeline with batch research
 
 **Install:**
 ```bash
-/plugin install research-workflow@claude-plugins
+/plugin install research-workflow@activist-ai-toolkit
 ```
 
 **What you get:**

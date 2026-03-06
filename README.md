@@ -1,6 +1,6 @@
 # Fieldwork Plugins
 
-Claude Code plugins for deep research and publishing. Two plugins: one turns natural language prompts into structured Obsidian vault notes, the other turns those notes into blog posts and social media content.
+Claude Code plugins for deep research and publishing. Two plugins: one turns natural language research prompts into structured Obsidian vault notes, the other turns those notes into blog posts and social media content.
 
 ## Quick Start
 
